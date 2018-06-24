@@ -789,7 +789,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "벅타임코리아",
+                "caption": "<a href=\"http://bugtimekorea.com\">벅타임코리아 (http://bugtimekorea.com)</a>",
                 "active": false
               },
               {
@@ -802,7 +802,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "원경묵의 행복원주",
+                "caption": "<a href=\"http://happywonju.com\">원경묵의 행복원주 (http://happywonju.com)</a>",
                 "active": true
               },
               {

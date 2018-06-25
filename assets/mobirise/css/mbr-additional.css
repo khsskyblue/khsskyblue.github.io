@@ -2032,6 +2032,9 @@ body {
     font-size: 4.25rem;
   }
 }
+.cid-qVOiuizx7m SPAN {
+  color: #000000;
+}
 .cid-qVHVlhRvUA {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -2264,58 +2267,10 @@ body {
   display: block;
   text-align: center;
 }
-.cid-qVOeTOnNBy {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-qVOeTOnNBy .socicon-bg-facebook {
-  background: #3e5b98;
-  color: #ffffff;
-}
-.cid-qVOeTOnNBy .socicon-bg-twitter {
-  background: #4da7de;
-  color: #ffffff;
-}
-.cid-qVOeTOnNBy .socicon-bg-googleplus {
-  background: #dd4b39;
-  color: #ffffff;
-}
-.cid-qVOeTOnNBy .socicon-bg-vkontakte {
-  background: #5a7fa6;
-  color: #ffffff;
-}
-.cid-qVOeTOnNBy .socicon-bg-odnoklassniki {
-  background: #f48420;
-  color: #ffffff;
-}
-.cid-qVOeTOnNBy .socicon-bg-pinterest {
-  background: #c92619;
-  color: #ffffff;
-}
-.cid-qVOeTOnNBy .socicon-bg-mail {
-  background: #134785;
-  color: #ffffff;
-}
-.cid-qVOeTOnNBy .btn-social {
-  border: none !important;
-}
-.cid-qVOeTOnNBy .btn-social {
-  border-radius: 0 !important;
-}
-.cid-qVOeTOnNBy [class^="socicon-"]:before,
-.cid-qVOeTOnNBy [class*=" socicon-"]:before {
-  line-height: 44px;
-}
-@media (max-width: 767px) {
-  .cid-qVOeTOnNBy .btn {
-    font-size: 20px !important;
-  }
-}
 .cid-qVNvAJaM8M {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #f2f2f2;
+  background-color: #ffffff;
 }
 .cid-qVNvAJaM8M .row-links {
   width: 100%;
@@ -2384,4 +2339,52 @@ body {
 }
 .cid-qVNvAJaM8M .media-container-row .mbr-text {
   color: #232323;
+}
+.cid-qVOeTOnNBy {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-qVOeTOnNBy .socicon-bg-facebook {
+  background: #3e5b98;
+  color: #ffffff;
+}
+.cid-qVOeTOnNBy .socicon-bg-twitter {
+  background: #4da7de;
+  color: #ffffff;
+}
+.cid-qVOeTOnNBy .socicon-bg-googleplus {
+  background: #dd4b39;
+  color: #ffffff;
+}
+.cid-qVOeTOnNBy .socicon-bg-vkontakte {
+  background: #5a7fa6;
+  color: #ffffff;
+}
+.cid-qVOeTOnNBy .socicon-bg-odnoklassniki {
+  background: #f48420;
+  color: #ffffff;
+}
+.cid-qVOeTOnNBy .socicon-bg-pinterest {
+  background: #c92619;
+  color: #ffffff;
+}
+.cid-qVOeTOnNBy .socicon-bg-mail {
+  background: #134785;
+  color: #ffffff;
+}
+.cid-qVOeTOnNBy .btn-social {
+  border: none !important;
+}
+.cid-qVOeTOnNBy .btn-social {
+  border-radius: 0 !important;
+}
+.cid-qVOeTOnNBy [class^="socicon-"]:before,
+.cid-qVOeTOnNBy [class*=" socicon-"]:before {
+  line-height: 44px;
+}
+@media (max-width: 767px) {
+  .cid-qVOeTOnNBy .btn {
+    font-size: 20px !important;
+  }
 }

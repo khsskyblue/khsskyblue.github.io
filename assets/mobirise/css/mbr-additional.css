@@ -2388,6 +2388,44 @@ body {
 .cid-qVNvAJaM8M .media-container-row .mbr-text {
   color: #232323;
 }
+.cid-qW5hCk4q1P {
+  padding-top: 90px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-qW5hCk4q1P H1 {
+  color: #000000;
+}
+.cid-qW5hCk4q1P H3 {
+  color: #000000;
+}
+.cid-qW5hCk4q1P P {
+  color: #000000;
+}
+.cid-qW5gPvwWch {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #ffffff;
+}
+.cid-qW5gPvwWch .image-block {
+  margin: auto;
+}
+.cid-qW5gPvwWch .mbr-figure {
+  margin: 0 auto;
+}
+.cid-qW5gPvwWch figcaption {
+  position: relative;
+}
+.cid-qW5gPvwWch figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qW5gPvwWch .image-block {
+    width: 100% !important;
+  }
+}
 .cid-qVHUBtcJ0y .navbar {
   background: #ffffff;
   transition: none;

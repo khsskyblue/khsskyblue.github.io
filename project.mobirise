@@ -793,7 +793,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<b><a href=\"bugtimekorea.html\" class=\"text-black\">벅타임코리아</a></b><a href=\"http://bugtimekorea.com\" class=\"text-black\"> (http://bugtimekorea.com)</a>",
+                "caption": "<b><a href=\"bugtimekorea.html\" class=\"text-black\">벅타임코리아</a></b>",
                 "active": false
               },
               {
@@ -806,7 +806,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<b><a href=\"happywonju.html\" class=\"text-black\">원경묵의 행복원주</a></b><a href=\"http://happywonju.com\" class=\"text-black\"> (http://happywonju.com)</a>",
+                "caption": "<b><a href=\"happywonju.html\" class=\"text-black\">원경묵의 행복원주</a></b>",
                 "active": true
               }
             ]

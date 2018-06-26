@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "1px",
-    "currentPage": "index.html",
+    "currentPage": "bugtimekorea.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1295,9 +1295,9 @@
         }
       ]
     },
-    "page1.html": {
+    "bugtimekorea.html": {
       "settings": {
-        "meta_descr": "Website Creator Description",
+        "meta_descr": "1px 반응형웹 벅타임코리아",
         "title": "bugtimekorea",
         "order": 1
       },

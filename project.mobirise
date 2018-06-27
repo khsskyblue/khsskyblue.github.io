@@ -784,7 +784,7 @@
             "gallery__filtersBtnStyle": "btn-primary-outline",
             "gallery": [
               {
-                "tags": "기본형",
+                "tags": "basic",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -794,10 +794,10 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "<a href=\"bugtimekorea.html\" class=\"text-black\">벅타임코리아</a>",
-                "active": false
+                "active": true
               },
               {
-                "tags": "고급형",
+                "tags": "premium",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -807,7 +807,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "<b><a href=\"happywonju.html\" class=\"text-black\">원경묵의 행복원주</a></b>",
-                "active": true
+                "active": false
               }
             ]
           }

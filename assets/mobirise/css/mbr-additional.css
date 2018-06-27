@@ -2888,13 +2888,13 @@ body {
   color: #232323;
 }
 .cid-qVHUBtcJ0y .navbar {
-  background: #000000;
+  background: #ffffff;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-qVHUBtcJ0y .navbar-dropdown.bg-color.transparent.opened {
-  background: #000000;
+  background: #ffffff;
 }
 .cid-qVHUBtcJ0y a {
   font-style: normal;
@@ -2978,7 +2978,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qVHUBtcJ0y .dropdown .dropdown-menu {
-  background: #000000;
+  background: #ffffff;
   display: none;
   position: absolute;
   min-width: 5rem;

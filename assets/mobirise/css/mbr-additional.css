@@ -2038,6 +2038,7 @@ body {
 .cid-qVHVlhRvUA {
   padding-top: 90px;
   padding-bottom: 90px;
+  background-image: url("../../../assets/images/hd-wood-background-wallpaper-2000x1250.jpg");
 }
 .cid-qVHVlhRvUA .carousel-control {
   background: #000;
@@ -2586,7 +2587,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #000000;
+  background-color: #333333;
 }
 .cid-qVHUBtcJ0y button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -2887,13 +2888,13 @@ body {
   color: #232323;
 }
 .cid-qVHUBtcJ0y .navbar {
-  background: #ffffff;
+  background: #000000;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-qVHUBtcJ0y .navbar-dropdown.bg-color.transparent.opened {
-  background: #ffffff;
+  background: #000000;
 }
 .cid-qVHUBtcJ0y a {
   font-style: normal;
@@ -2977,7 +2978,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qVHUBtcJ0y .dropdown .dropdown-menu {
-  background: #ffffff;
+  background: #000000;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -3048,7 +3049,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #000000;
+  background-color: #333333;
 }
 .cid-qVHUBtcJ0y button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;

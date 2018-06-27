@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "1px",
-    "currentPage": "happywonju.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -921,7 +921,7 @@
               "background": "#000"
             },
             ".mbr-section-subtitle": {
-              "color": "#767676"
+              "color": "#ffffff"
             },
             ".carousel-item": {
               "-webkit-justify-content": "center",

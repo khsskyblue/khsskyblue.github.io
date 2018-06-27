@@ -793,7 +793,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<b><a href=\"bugtimekorea.html\" class=\"text-black\">벅타임코리아</a></b>",
+                "caption": "<a href=\"bugtimekorea.html\" class=\"text-black\">벅타임코리아</a>",
                 "active": false
               },
               {

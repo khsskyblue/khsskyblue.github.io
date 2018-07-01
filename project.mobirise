@@ -488,7 +488,7 @@
               "background-color": "@bg-value"
             },
             "H1": {
-              "color": "#000000"
+              "color": "#f7ed4a"
             },
             "H3": {
               "color": "#000000"

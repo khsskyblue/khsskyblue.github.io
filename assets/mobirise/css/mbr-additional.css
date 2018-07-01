@@ -1771,6 +1771,18 @@ body {
 .cid-qVNzlQBPVT .mbr-section-btn {
   color: #000000;
 }
+.cid-qWygaeP344 {
+  background: #ffffff;
+}
+.cid-qWygaeP344 .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-qWygaeP344 .video-block {
+    width: 100% !important;
+  }
+}
 .cid-qVOq2uwibl {
   padding-top: 60px;
   padding-bottom: 60px;

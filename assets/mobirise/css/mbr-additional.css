@@ -1534,7 +1534,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #000000;
+  background-color: #f7ed4a;
 }
 .cid-qVHUBtcJ0y button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1760,9 +1760,6 @@ body {
 .cid-qVHUBtcJ0y .nav-link:hover,
 .cid-qVHUBtcJ0y .dropdown-item:hover {
   color: #767676 !important;
-}
-.cid-qVNzlQBPVT {
-  background-image: url("../../../assets/images/jumbotron.jpg");
 }
 .cid-qVNzlQBPVT H1 {
   color: #ffffff;

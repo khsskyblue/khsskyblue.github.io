@@ -2044,7 +2044,7 @@ body {
   text-align: center;
 }
 .cid-qWEhRc3vhx .mbr-text B {
-  color: #cd201f;
+  color: #000000;
 }
 .cid-qVHVlhRvUA {
   padding-top: 90px;
@@ -2342,7 +2342,7 @@ body {
 .cid-qVNvAJaM8M {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #ffffff;
+  background-color: #000000;
 }
 .cid-qVNvAJaM8M .row-links {
   width: 100%;
@@ -2410,7 +2410,7 @@ body {
   width: 100%;
 }
 .cid-qVNvAJaM8M .media-container-row .mbr-text {
-  color: #232323;
+  color: #ffffff;
 }
 .cid-qW5hCk4q1P {
   padding-top: 90px;
@@ -2612,7 +2612,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #000000;
 }
 .cid-qVHUBtcJ0y button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -2842,7 +2842,7 @@ body {
 .cid-qVNvAJaM8M {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #ffffff;
+  background-color: #000000;
 }
 .cid-qVNvAJaM8M .row-links {
   width: 100%;
@@ -2910,16 +2910,16 @@ body {
   width: 100%;
 }
 .cid-qVNvAJaM8M .media-container-row .mbr-text {
-  color: #232323;
+  color: #ffffff;
 }
 .cid-qVHUBtcJ0y .navbar {
-  background: linear-gradient(#000000 0%, transparent 100%);  
+  background: #000000;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-qVHUBtcJ0y .navbar-dropdown.bg-color.transparent.opened {
-  background: linear-gradient(#000000 0%, transparent 100%);
+  background: #000000;
 }
 .cid-qVHUBtcJ0y a {
   font-style: normal;
@@ -2984,8 +2984,8 @@ body {
   transition: font-size 0.25s;
 }
 .cid-qVHUBtcJ0y .navbar-toggleable-sm .navbar-collapse {
-  justify-content: center;
-  -webkit-justify-content: center;
+  justify-content: flex-end;
+  -webkit-justify-content: flex-end;
   padding-right: 5rem;
   width: auto;
 }
@@ -3074,7 +3074,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #000000;
 }
 .cid-qVHUBtcJ0y button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -3342,7 +3342,7 @@ body {
 .cid-qVNvAJaM8M {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #ffffff;
+  background-color: #000000;
 }
 .cid-qVNvAJaM8M .row-links {
   width: 100%;
@@ -3410,5 +3410,5 @@ body {
   width: 100%;
 }
 .cid-qVNvAJaM8M .media-container-row .mbr-text {
-  color: #232323;
+  color: #ffffff;
 }

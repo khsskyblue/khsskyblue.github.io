@@ -2913,13 +2913,13 @@ body {
   color: #232323;
 }
 .cid-qVHUBtcJ0y .navbar {
-  background: #000000;
+  background: linear-gradient(#000000 0%, transparent 100%);  
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-qVHUBtcJ0y .navbar-dropdown.bg-color.transparent.opened {
-  background: #000000;
+  background: linear-gradient(#000000 0%, transparent 100%);
 }
 .cid-qVHUBtcJ0y a {
   font-style: normal;
@@ -2984,8 +2984,8 @@ body {
   transition: font-size 0.25s;
 }
 .cid-qVHUBtcJ0y .navbar-toggleable-sm .navbar-collapse {
-  justify-content: flex-end;
-  -webkit-justify-content: flex-end;
+  justify-content: center;
+  -webkit-justify-content: center;
   padding-right: 5rem;
   width: auto;
 }

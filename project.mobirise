@@ -13,16 +13,16 @@
         "warningColor": "#879A9F",
         "dangerColor": "#B1A374",
         "mainFont": "Rubik",
-        "display1Font": "Noto Sans",
+        "display1Font": "Black Han Sans",
         "display1Size": 4.25,
-        "display2Font": "Noto Sans",
+        "display2Font": "Black Han Sans",
         "display2Size": 3,
-        "display5Font": "Noto Sans",
+        "display5Font": "Black Han Sans",
         "display5Size": 1.5,
-        "display7Font": "Noto Sans",
+        "display7Font": "Black Han Sans",
         "display7Size": 1,
-        "display4Font": "Noto Sans",
-        "display4Size": 1,
+        "display4Font": "Black Han Sans",
+        "display4Size": "1",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": true
@@ -42,6 +42,11 @@
         "css": "'Noto Sans', sans-serif",
         "name": "Noto Sans",
         "url": "https://fonts.googleapis.com/css?family=Noto+Sans:400,400i,700,700i"
+      },
+      {
+        "css": "'Black Han Sans', sans-serif",
+        "name": "Black Han Sans",
+        "url": "https://fonts.googleapis.com/css?family=Black+Han+Sans:400"
       }
     ],
     "versionFirst": "4.7.6",

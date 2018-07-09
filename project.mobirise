@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "1px",
-    "currentPage": "success.html",
+    "currentPage": "error.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2548,7 +2548,7 @@
     "success.html": {
       "settings": {
         "meta_descr": "1px 반응형웹 벅타임코리아",
-        "title": "메시지를 정상적으로 전송하였습니다.",
+        "title": "succes",
         "order": 3
       },
       "components": [
@@ -3123,7 +3123,7 @@
     "error.html": {
       "settings": {
         "meta_descr": "1px 반응형웹 벅타임코리아",
-        "title": "메시지 전송이 실패하였습니다.",
+        "title": "error",
         "order": 4
       },
       "components": [

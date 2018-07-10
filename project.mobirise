@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "1px",
-    "currentPage": "policy.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -62,7 +62,7 @@
     "noImageResize": "",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-31388158-2\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-31388158-2');\r\n</script>",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
-    "gdpr": "귀하는 <a href='terms.html'>서비스 약관</a> 및 <a href='policy.html'>개인 정보 취급 방침</a>에 동의하게됩니다.",
+    "gdpr": "귀하는 <a href='terms.html'>서비스 약관</a> 및 <a href='policy.html'>개인정보 취급방침</a>에 동의하게됩니다.",
     "sitemapSwitcher": "on"
   },
   "pages": {

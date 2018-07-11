@@ -50,7 +50,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 98,
+    "uniqCompNum": 102,
     "versionPublish": "4.8.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -1455,7 +1455,7 @@
       "settings": {
         "meta_descr": "1px 반응형웹 벅타임코리아",
         "title": "벅타임코리아",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -2030,7 +2030,7 @@
       "settings": {
         "meta_descr": "원경묵의 해피원주",
         "title": "원경묵의 해피원주",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -2603,7 +2603,7 @@
       "settings": {
         "meta_descr": "메시지 전송 성공",
         "title": "succes",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -3175,7 +3175,7 @@
       "settings": {
         "meta_descr": "메시지 전송 오류",
         "title": "error",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -3747,7 +3747,7 @@
       "settings": {
         "meta_descr": "서비스 조건",
         "title": "terms",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -4335,7 +4335,7 @@
       "settings": {
         "meta_descr": "정책",
         "title": "policy",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -4907,7 +4907,7 @@
       "settings": {
         "meta_descr": "정책",
         "title": "privacy",
-        "order": 5
+        "order": 6
       },
       "components": [
         {

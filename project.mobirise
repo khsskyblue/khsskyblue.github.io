@@ -883,12 +883,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/happywonju.com-rwd-1300x639.png",
-                "thumb": "@PROJECT_PATH@/assets/images/happywonju.com-rwd-1300x639-800x393.png",
+                "image": "@PROJECT_PATH@/assets/images/bigtopkorea-1200x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bigtopkorea-1200x600-800x400.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<b><a href=\"happywonju.html\" class=\"text-black\">원경묵의 행복원주</a></b>",
+                "caption": "<b>빅탑코리아</b>",
                 "active": true
               }
             ]

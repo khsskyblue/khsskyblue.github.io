@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "1px",
-    "currentPage": "bigtopkorea.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -888,7 +888,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<b>빅탑코리아</b>",
+                "caption": "<a href=\"bigtopkorea.html\" class=\"text-black\">빅탑코리아</a>",
                 "active": true
               }
             ]

@@ -701,6 +701,7 @@
                 <p class="mbr-text mb-0 mbr-fonts-style mbr-white align-center display-7">
                     © Copyright (c) 2018 ■1px</p>
             </div>
+            <div style="text-align: center;" id="google_translate_element"></div>
         </div>
     </div>
 </section>
@@ -726,7 +727,14 @@
   <script src="assets/slidervideo/script.js"></script>
   <script src="assets/gallery/player.min.js"></script>
   <script src="assets/gallery/script.js"></script>
-  
+  <script>
+    function googleTranslateElementInit() {
+            new google.translate.TranslateElement({
+            pageLanguage: 'ko'
+        }, 'google_translate_element');
+    }
+</script>
+<script src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
   
  <div id="scrollToTop" class="scrollToTop mbr-arrow-up"><a style="text-align: center;"><i></i></a></div>
     <input name="animation" type="hidden">

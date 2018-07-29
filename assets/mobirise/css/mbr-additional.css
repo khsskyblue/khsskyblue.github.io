@@ -6494,7 +6494,7 @@ body {
 
 .blog-block-1 h4 {
 	font-size: 24px;
-	font-weight: 100; 
+	font-weight: 400;
 }
 
 .blog-block-1 .btn {
@@ -6620,7 +6620,7 @@ select.form-control {
 
 .blog-block-1 .card-title {
 	font-style: normal;
-	font-weight: 800;
+	font-weight: 400;
 	font-size: 40px;
 	line-height: 1.4em;
 	letter-spacing: 2px;

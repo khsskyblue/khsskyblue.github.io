@@ -6494,7 +6494,7 @@ body {
 
 .blog-block-1 h4 {
 	font-size: 24px;
-	font-weight: 400;
+	font-weight: normal; 
 }
 
 .blog-block-1 .btn {

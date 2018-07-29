@@ -6709,14 +6709,14 @@ select.form-control {
 	letter-spacing: 1.5px;
 	text-transform: uppercase;
 	padding: 8px 16px;
-	background-color: #42474c !important;
+	background-color: #000000 !important;
 	color: #FFF !important;
 	display: inline-block;
 	box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	-webkit-box-sizing: border-box;
 	text-decoration: none;
-	border: solid 2px #42474c !important;
+	border: solid 2px #000000 !important;
 	border-radius: 2px;
 	-moz-border-radius: 2px;
 	-webkit-border-radius: 2px;

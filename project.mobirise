@@ -552,6 +552,9 @@
             ".card-img span": {
               "font-size": "96px",
               "color": "#149dcc"
+            },
+            ".card-title, .card-img": {
+              "color": "#ffffff"
             }
           },
           "_name": "features1",

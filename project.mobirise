@@ -554,7 +554,7 @@
               "color": "#149dcc"
             },
             ".card-title, .card-img": {
-              "color": "#ffffff"
+              "color": "#efefef"
             }
           },
           "_name": "features1",
@@ -609,6 +609,9 @@
             },
             ".card-title, .card-img B": {
               "color": "#232323"
+            },
+            ".card-title, .card-img": {
+              "color": "#efefef"
             }
           },
           "_name": "features1",
@@ -642,6 +645,9 @@
             ".card-img span": {
               "font-size": "96px",
               "color": "#149dcc"
+            },
+            ".card-title, .card-img B": {
+              "color": "#efefef"
             }
           },
           "_name": "features1",
@@ -677,6 +683,9 @@
             ".card-img span": {
               "font-size": "96px",
               "color": "#149dcc"
+            },
+            ".card-title, .card-img B": {
+              "color": "#efefef"
             }
           },
           "_name": "features1",
@@ -712,7 +721,7 @@
               "color": "#149dcc"
             },
             ".card-title, .card-img": {
-              "color": "#000000"
+              "color": "#efefef"
             },
             ".card-title, .card-img B": {
               "color": "#232323"

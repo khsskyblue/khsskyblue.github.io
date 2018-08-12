@@ -2177,6 +2177,9 @@ body {
 .cid-qVOiuizx7m SPAN {
   color: #767676;
 }
+.cid-qVOiuizx7m .price-figure SPAN {
+  color: #ffffff;
+}
 .cid-qWEhRc3vhx {
   padding-top: 0px;
   padding-bottom: 60px;
@@ -2529,6 +2532,95 @@ body {
 }
 .cid-qWbuGkXReo B {
   color: #232323;
+}
+.cid-r0vsdVGJGR {
+  padding-top: 90px;
+  padding-bottom: 90px;
+}
+.cid-r0vsdVGJGR .mbr-section-subtitle {
+  color: #000000;
+  font-weight: 300;
+}
+.cid-r0vsdVGJGR .number-wrap {
+  color: #565656;
+  border-color: rgba(255, 255, 255, 0.15);
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  padding: 5px 10px 13px 10px;
+  margin: 0;
+  min-width: 118px;
+  border-radius: 2px;
+  max-width: 100%;
+}
+.cid-r0vsdVGJGR .number {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 55px;
+  text-transform: none;
+  letter-spacing: -2px;
+  word-spacing: 0;
+  line-height: 1.3;
+  color: #000000;
+}
+.cid-r0vsdVGJGR .period {
+  display: block;
+  padding-top: 2px;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+.cid-r0vsdVGJGR .dot {
+  position: absolute;
+  top: -10px;
+  right: -1em;
+  width: 1em;
+  display: block;
+  height: 83%;
+  overflow: hidden;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 55px;
+  line-height: 89.65px;
+  text-transform: none;
+  letter-spacing: 0;
+  word-spacing: 0;
+  color: #000000;
+}
+.cid-r0vsdVGJGR .countdown-cont {
+  max-width: 700px;
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-r0vsdVGJGR .dot {
+    display: none;
+  }
+}
+@media (max-width: 543px) {
+  .cid-r0vsdVGJGR .number-wrap {
+    margin-bottom: 15px;
+  }
+}
+@media (max-width: 550px) {
+  .cid-r0vsdVGJGR .col-xs-3 {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .cid-r0vsdVGJGR .number-wrap {
+    min-width: auto;
+  }
+}
+@media (max-width: 440px) {
+  .cid-r0vsdVGJGR .number,
+  .cid-r0vsdVGJGR .dot {
+    font-size: 40px;
+  }
+}
+@media (max-width: 380px) {
+  .cid-r0vsdVGJGR .period {
+    font-size: 0.8rem;
+  }
+}
+.cid-r0vsdVGJGR H2 {
+  color: #000000;
 }
 .cid-qVNvAJaM8M {
   padding-top: 30px;
